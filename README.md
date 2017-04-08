@@ -17,6 +17,8 @@ or clone as a git submodule,
 
 or just copy files in the ```POP+MCAnimate``` folder into your project.
 
+Then `import POP_MCAnimate`.
+
 ## Using POP+MCAnimate
 
 **Breaking change:** Methods and properties have been prefixed with *pop_*. See section on shorthand syntax below.
